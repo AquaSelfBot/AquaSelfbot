@@ -1,7 +1,7 @@
 # React Selfbot
 ## Yes, for real
 
-## ⚠ "Maintained" version: https://github.com/FlawCra/ReactSelfbot ⚠
+## ⚠ "Maintained" version: https://github.com/AquaSelfBot/AquaSelfbot ⚠
 
 ### Why am I making this open source?
 Because can't stop calling my product a rat, tokenlogger and what else not.
